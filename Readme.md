@@ -58,6 +58,13 @@
     * def test_finish_shopping(self): finaliza la compra
 
  Por ultimo el metodo teardown_class() finaliza las pruebas cerrando el navegador y detiene el driver.
+ 
+ ## Conclusión del Proyecto Swag Labs
+En el proyecto Swag Labs, se automatizó el acceso de usuarios, la adición de productos al carrito, el llenado del formulario de checkout y la finalización de compras utilizando Selenium y WebDriver.
+
+El proyecto incluye tres archivos: Data.py para datos necesarios, Main.py para la lógica de automatización y Test_swag_labs.py para ejecutar las pruebas. Cada clase aborda un aspecto específico del proceso, asegurando la funcionalidad de la página.
+
+El uso de métodos como setup_class y teardown_class permite una gestión eficiente del entorno de prueba. Este proyecto demuestra la efectividad de la automatización en la mejora de la experiencia de compra en Swag Labs.
 
 
 ## Muchas gracias!!!
